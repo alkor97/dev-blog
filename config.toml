@@ -1,0 +1,12 @@
+baseurl = "http://dev.alkor.info/"
+title = "dev.alkor.info"
+languageCode = "en-us"
+
+[params]
+author = "Maciej Stachurski"
+Subtitle = "doing interesting things"
+cover = "/background.JPG"
+
+[taxonomies]
+tag = "tags"
+
